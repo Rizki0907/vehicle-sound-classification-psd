@@ -1,10 +1,8 @@
 streamlit
-numpy==1.23.5
-matplotlib
+librosa==0.10.1
+numpy
 scipy
-scikit-learn
+matplotlib
 joblib
-sounddevice
-librosa==0.9.2
-numba==0.55.2
-llvmlite==0.38.0
+scikit-learn
+soundfile
