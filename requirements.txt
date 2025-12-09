@@ -1,9 +1,8 @@
 streamlit
 numpy
-pandas
 matplotlib
-plotly
-scikit-learn
+scipy
 librosa==0.9.2
+scikit-learn
+joblib
 soundfile
-audiorecorder
